@@ -1,0 +1,6 @@
+.videofymeVid {
+	border: 1px dashed #888;
+	background: #f2f8ff url(img/logo.png) no-repeat scroll center center;
+	width: 480px;
+	height: 360px;
+}
